@@ -1,0 +1,4 @@
+Compute the integral of the function Y=3x^3−4x^2+7x−18 over the interval [−4, 6] using both the analytical method and
+the Hit-or-Miss Monte Carlo integration technique.
+In addition, plot the estimation error as a function of the number of Monte Carlo samples.
+For each sample size, perform 10 independent replications and report the average of the 10 estimates as the final result.
